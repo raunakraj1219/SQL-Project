@@ -1,0 +1,21 @@
+Problem Statement:
+
+One part of our day-to-day operations is to on-board a lot of cooks to ensure we have enough supply. After we on-board them, we assign a category and a rating to them after judging them on their skills. Once the on-boarding is done, we match these on-boarded cooks as per the customer queries we receive.
+
+  
+
+We want you to create an automated system that can help us easily on-board the cooks. All the data should be directly stored in the database in the attached format.
+
+ 
+
+The platform that you create should be able to do below tasks:
+
+ 
+
+1.    On-board cooks and enter all their relevant information in attached format.
+
+2.    Ability to edit and modify the existing records
+
+3.  A query mechanism to filter cooks based on customer’s preferences – mainly, location and preferred time slots. Other parameters can be added to the query later on.
+
+4.    A system to generate profiles of the cooks and show them to the Customer Request team.
